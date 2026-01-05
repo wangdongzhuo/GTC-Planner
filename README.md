@@ -67,6 +67,8 @@ Then preprocess the whole nuPlan training set (this will take some time). You ma
     worker.threads_per_node=40
 ```
 
+Our 100K-Split Scenarios Dataset is now available on [Hugging Face](https://huggingface.co/datasets/AlniyatRui/CAFE-AD-100K-Split/tree/main)
+
 ## Training
 
 (The training part it not fully tested)
